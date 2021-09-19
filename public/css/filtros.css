@@ -1,0 +1,58 @@
+#añolanzamiento {
+    margin-top: 75px;
+    margin-left: 15px;
+    color: white;
+}
+
+.tvs,
+.año,
+.peliactuales,
+.AdultoR {
+    color: white;
+    margin-left: 5px;
+    width: 25%;
+    background-color: #181818;
+    color: #e0fbfc;
+    float: left;
+}
+
+.tvs img,
+.año img,
+.peliactuales img,
+.AdultoR img {
+    width: 100px;
+    margin-bottom: 60px;
+    margin-left: 10px;
+}
+
+.tvs li,
+.año li,
+.peliactuales li,
+.AdultoR li {
+    list-style: none;
+    margin-left: 5px;
+}
+
+#categorias
+
+{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+
+}
+
+.categoria{
+
+    color: #e0fbfc;
+    padding: 10px 15px;
+    background-color: cadetblue;
+    border-radius: 50px;
+    margin: 5opx;
+    display: inline-block;
+    cursor: pointer;
+
+}
